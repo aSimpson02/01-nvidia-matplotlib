@@ -4,6 +4,7 @@ A recipe: 27 years of Nvidia's share price, the chips that built it, and the sca
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aSimpson02/01-nvidia-matplotlib/blob/main/main.ipynb)
 
+![NVDA: from GeForce to the boardroom](nvidia_timeline.png)
 
 ## What you'll learn
 
